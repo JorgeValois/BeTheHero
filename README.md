@@ -122,9 +122,9 @@ Depois de criar a conecação com o back-end, é importante lembrar de utilizar 
 
 #useEffect dispara uma função em determinado momento do componente. Sempre que um elemento no parâmetro de elementos se modificar, ele iria atualizar a tela. Caso esteja vazio, ele atualizará apenas 1x;
 
-Usar o atributo “key” na <li> pois facilita na hora de buscar um item dinamicamente
+Usar o atributo “key” na "<li>" pois facilita na hora de buscar um item dinamicamente
 
-# INTL classe global do javascript que faz formatação de dados (data, moeda etc).
+#INTL classe global do javascript que faz formatação de dados (data, moeda etc).
 
 Mobile
 
